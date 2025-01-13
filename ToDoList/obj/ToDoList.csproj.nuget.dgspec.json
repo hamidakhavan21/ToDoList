@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Aida\\Desktop\\ToDoList\\ToDoList\\ToDoList.csproj": {}
+    "C:\\Users\\Aida\\Desktop\\ToDoList\\ToDoList\\ToDoList.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Aida\\Desktop\\ToDoList\\ToDoList\\ToDoList.csproj": {
+    "C:\\Users\\Aida\\Desktop\\ToDoList\\ToDoList\\ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Aida\\Desktop\\ToDoList\\ToDoList\\ToDoList.csproj",
+        "projectUniqueName": "C:\\Users\\Aida\\Desktop\\ToDoList\\ToDoList\\ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "c:\\Users\\Aida\\Desktop\\ToDoList\\ToDoList\\ToDoList.csproj",
+        "projectPath": "C:\\Users\\Aida\\Desktop\\ToDoList\\ToDoList\\ToDoList.csproj",
         "packagesPath": "C:\\Users\\Aida\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Aida\\Desktop\\ToDoList\\ToDoList\\obj\\",
+        "outputPath": "C:\\Users\\Aida\\Desktop\\ToDoList\\ToDoList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aida\\AppData\\Roaming\\NuGet\\NuGet.Config"
